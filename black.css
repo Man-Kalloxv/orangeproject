@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+img{
+    border: 10px solid white;
+}
+h1{
+    color: beige;
+}
+h2{
+    color: brown;
+    height: 200px;
+    width: 300px;
+    border: 20px solid brown;
+    box-shadow: inset 10px 10px 3px white;
+}
