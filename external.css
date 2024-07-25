@@ -2,9 +2,10 @@ h2{
     text-align: right;
     color: blueviolet;
 }
-h4{
+h1{
     text-align: center;
     color: blueviolet;
+    text-decoration: underline;
     }
     body{
         background-color: beige;
