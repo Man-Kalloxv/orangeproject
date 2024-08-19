@@ -1,0 +1,27 @@
+.bi{
+    font-size: 28px;
+    color: blueviolet;
+    background-color: brown;
+    padding: 7px;
+}
+.fa{
+    font-size: 28px;
+    color: brown;
+    background-color: blueviolet;
+    padding: 7px;
+}
+.fa-brands{
+    font-size: 28px;
+    color: brown;
+    background-color: blueviolet;
+    padding: 7px;
+}
+.material-symbols-outlined{
+    font-size: 28px;
+    color: white;
+    background-color: chocolate;
+    padding: 7px;
+}
+body{
+    background-color: burlywood;
+}
